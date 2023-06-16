@@ -10,8 +10,8 @@ body {
   }
   
   li{
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 
   .navbar-nav > li > a {
@@ -37,8 +37,8 @@ body {
     
 }
 .navbar-brand{
-  color: #000000; /* Cambia el color del texto del navbar */
-  font-size: 45px; /* Cambia el tamaño del texto del navbar */
+  color: #ffffff; /* Cambia el color del texto del navbar */
+  font-size: 50px; /* Cambia el tamaño del texto del navbar */
   font-family: "Brush Script MT", cursive;
 }
 
